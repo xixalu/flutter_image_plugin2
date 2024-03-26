@@ -1,7 +1,7 @@
 dependencies:
   yingzi_flutter_image_cache:
     git:
-      url: https://github.com/Yingzi-Technology/yingzi_flutter_image_cache.git
+      url: https://github.com/xixalu/flutter_image_plugin2.git
       ref: 1.0.0
 
 
